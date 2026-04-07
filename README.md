@@ -19,7 +19,7 @@ This project analyzes ride booking data to identify trends in revenue, demand, a
 - UPI dominates payment methods
 
 ## 📊 Dashboard Preview
-![Dashboard]<img width="879" height="487" alt="dashboard" src="https://github.com/user-attachments/assets/256b5ebc-f0a3-41ca-b629-d72e8b799a23" />
+Dashboard<img width="879" height="487" alt="dashboard" src="https://github.com/user-attachments/assets/256b5ebc-f0a3-41ca-b629-d72e8b799a23" />
 
 
 ## 🚀 Features
