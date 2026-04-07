@@ -18,9 +18,6 @@ This project analyzes ride booking data to identify trends in revenue, demand, a
 - Top drivers contribute significant portion of trips
 - UPI dominates payment methods
 
-## 📊 Dashboard Preview
-![Dashboard](dashboard/dashboard.png)
-
 ## 🚀 Features
 - Star schema data model
 - SQL queries for business analysis
